@@ -1,3 +1,5 @@
 # Algorithm
 
-Solving algorithm problems.
+## Solving algorithm problems.
+
+- [Hash](/Hash)
