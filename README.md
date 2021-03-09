@@ -4,4 +4,4 @@
 
 - [Hash](/Hash)
 - [Sorting](/Sorting)
-- [Excercise](/Excercise)
+- [Exercise](/Exercise)
