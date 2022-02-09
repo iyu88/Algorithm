@@ -18,8 +18,10 @@
   - [DP](/BaekJoon/DP)
   - [Sorting](/BaekJoon/Sorting)
   - [Divide and Conquer](/BaekJoon/DivideAndConquer)
+  - [BackTracking](/BaekJoon/BackTracking)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
   - [LinkedList](/BaekJoon/LinkedList)
   - [Hash](/BaekJoon/Hash)
+  - [Heap](/BaekJoon/Heap)
