@@ -19,6 +19,7 @@
   - [Sorting](/BaekJoon/Sorting)
   - [Divide and Conquer](/BaekJoon/DivideAndConquer)
   - [BackTracking](/BaekJoon/BackTracking)
+  - [Dijkstra](/BaekJoon/Dijkstra)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
