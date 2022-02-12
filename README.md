@@ -26,3 +26,4 @@
   - [LinkedList](/BaekJoon/LinkedList)
   - [Hash](/BaekJoon/Hash)
   - [Heap](/BaekJoon/Heap)
+  - [Tree](/BaekJoon/Tree)
