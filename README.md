@@ -20,6 +20,8 @@
   - [Divide and Conquer](/BaekJoon/DivideAndConquer)
   - [BackTracking](/BaekJoon/BackTracking)
   - [Dijkstra](/BaekJoon/Dijkstra)
+  - [FloydWarshall](/BaekJoon/FloydWarshall)
+  - [BellmanFord](/BaekJoon/BellmanFord)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
