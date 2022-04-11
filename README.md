@@ -23,6 +23,7 @@
   - [FloydWarshall](/BaekJoon/FloydWarshall)
   - [BellmanFord](/BaekJoon/BellmanFord)
   - [String](/BaekJoon/String)
+  - [MST](/BaekJoon/MST)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
