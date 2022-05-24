@@ -24,6 +24,7 @@
   - [BellmanFord](/BaekJoon/BellmanFord)
   - [String](/BaekJoon/String)
   - [MST](/BaekJoon/MST)
+  - [Geometry](/BaekJoon/Geometry)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
