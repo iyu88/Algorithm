@@ -25,6 +25,7 @@
   - [String](/BaekJoon/String)
   - [MST](/BaekJoon/MST)
   - [Geometry](/BaekJoon/Geometry)
+  - [UnionFind](/BaekJoon/UnionFind)
   ***
   - [Stack](/BaekJoon/Stack)
   - [Queue](/BaekJoon/Queue)
